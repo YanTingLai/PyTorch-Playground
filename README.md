@@ -1,2 +1,16 @@
-# pytorch-playground
-practice pytorch
+# PyTorch Playground~~~~~~~
+
+是個練習PyTorch的地方~
+
+# 目標
+* 預計會有
+  * 影像分類
+  * 物件偵測
+  * 風格轉移
+  * 圖像生成
+  * 人臉偵測
+  * 人臉轉換
+  * 文字分類
+  * 文字生成
+  * 問答機器人
+etc
